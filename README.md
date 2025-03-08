@@ -1,0 +1,2 @@
+# aitoken
+AIAPT coin
